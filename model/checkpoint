@@ -1,0 +1,2 @@
+model_checkpoint_path: "regressionModel.ckpt"
+all_model_checkpoint_paths: "regressionModel.ckpt"
